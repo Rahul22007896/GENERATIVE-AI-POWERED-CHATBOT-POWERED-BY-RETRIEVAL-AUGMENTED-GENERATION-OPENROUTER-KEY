@@ -2,6 +2,8 @@
 
 An intelligent chatbot powered by **Generative AI** and **Retrieval-Augmented Generation (RAG)** that delivers accurate, context-aware responses by combining Large Language Models with external knowledge sources.
 
+<img width="1404" height="693" alt="image" src="https://github.com/user-attachments/assets/1534e951-58ad-44c9-ba46-435096c0e847" />
+
 ---
 
 ## Features
